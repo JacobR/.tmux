@@ -3,7 +3,7 @@
 
 ![Dracula](https://user-images.githubusercontent.com/282889/75414515-03eff000-58e6-11ea-96f9-5f1d73c35208.png)
 
-Self-contained, pretty and versatile `.tmux.conf` configuration file.
+Self-contained, pretty and versatile `.tmux.conf` configuration file with [Dracula theme](https://draculatheme.com/). Colors used based on work done by [mamyn0va](https://github.com/mamyn0va/tmux-dracula/).
 
 ![Screenshot](https://user-images.githubusercontent.com/282889/75414123-b45cf480-58e4-11ea-9d75-377a51923d88.png)
 
