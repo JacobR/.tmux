@@ -1,4 +1,4 @@
-.tmux
+.tmux-dracula
 =====
 
 ![Dracula](https://user-images.githubusercontent.com/282889/75414515-03eff000-58e6-11ea-96f9-5f1d73c35208.png)
